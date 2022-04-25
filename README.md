@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oscar066
-- 👀 I’m interested in ...programming and hacking 
-- 🌱 I’m currently learning ...web development 
+- 👀 I’m interested in ...programming, data_science ,web development and hacking 
+- 🌱 I’m currently learning ...web development and data_science
 - 💞️ I’m looking to collaborate on ...coding projects
 - 📫 How to reach me ... oscarkaruga1@gmail.com 
 
