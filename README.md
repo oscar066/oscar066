@@ -25,8 +25,8 @@ oscar = {
     "role"       : "Data Scientist & AI Engineer & Software Engineer",
     "location"   : "Nairobi, Kenya 🇰🇪",
     "building"   : "Kiduka — AI-powered agricultural analysis platform 🌾",
-    "learning"   : ["LLMs", "MLOps", "Cybersecurity", "Agentic AI"],
-    "interests"  : ["Agriculture + AI", "Offensive Security", "Open Source"],
+    "learning"   : ["Go Programming language", "DevOps", "LLMs", "MLOps", "Cybersecurity", "Agentic AI"],
+    "interests"  : ["Softare Engineering", "Agriculture + AI", "Offensive Security", "Open Source", "TTS-Applications"],
     "collaborate": "Always open to AI/ML projects",
     "contact"    : "oscarkaruga1@gmail.com",
 }
@@ -42,19 +42,28 @@ oscar = {
 
 **Languages & Runtimes**
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,bash,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark)](https://skillicons.dev)
 
 **AI, ML & Data**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,jupyter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1b27?style=flat-square&logo=scikitlearn&logoColor=f7931e)
+![Keras](https://img.shields.io/badge/Keras-1a1b27?style=flat-square&logo=keras&logoColor=d00000)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=chainlink&logoColor=70a5fd)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logo=graphql&logoColor=70a5fd)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-1a1b27?style=flat-square&logo=amazonaws&logoColor=ff9900)
+![Strands](https://img.shields.io/badge/Strands%20Agents-1a1b27?style=flat-square&logo=amazonaws&logoColor=ff9900)
 
 **Web & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,django,flask,fastapi,postgres,redis&theme=dark)](https://skillicons.dev)
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,github,vscode,aws,kubernetes&theme=dark)](https://skillicons.dev)
 
 </div>
 
